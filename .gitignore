@@ -1,0 +1,20 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS and IDE specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional: Ignore build artifacts
+/dist/
+/build/
